@@ -12,7 +12,6 @@
 # 👩‍💻 About Me
 
 Motivated third-year **B.Tech Computer Science & Data Science student** with strong fundamentals in programming and problem solving.  
-
 I am passionate about **Artificial Intelligence, Data Science, and Software Development**. I enjoy building practical projects, learning new technologies, and solving algorithmic problems.
 
 ---
